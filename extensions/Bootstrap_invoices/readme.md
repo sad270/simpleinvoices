@@ -43,7 +43,7 @@ Bootstrap is a *"Sleek, intuitive, and powerful mobile first front-end framework
 - [ ] fix user dropdown
 - [ ] more 'bootstrapped' item :)
 
-###beta1.1 (31oct2013)
+###beta1.1.1 (31oct2013)
 - [x] fixed login page
 
 ###beta1.1 (29oct2013)
